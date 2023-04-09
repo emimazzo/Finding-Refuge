@@ -1,0 +1,233 @@
+﻿country_origin,continent,migrants_2020
+Burundi,Africa,551105
+Comoros,Africa,150823
+Djibouti,Africa,18365
+Eritrea,Africa,802822
+Ethiopia,Africa,946129
+Kenya,Africa,535348
+Madagascar,Africa,193526
+Malawi,Africa,311052
+Mauritius*,Africa,182973
+Mayotte*,Africa,6767
+Mozambique,Africa,640160
+Réunion*,Africa,3064
+Rwanda,Africa,492489
+Seychelles,Africa,29258
+Somalia,Africa,2034221
+South Sudan,Africa,2575870
+Uganda,Africa,781440
+United Republic of Tanzania*,Africa,327863
+Zambia,Africa,200700
+Zimbabwe,Africa,1243314
+Angola,Africa,668066
+Cameroon,Africa,441015
+Central African Republic,Africa,816668
+Chad,Africa,222303
+Congo,Africa,223767
+Democratic Republic of the Congo,Africa,1832069
+Equatorial Guinea,Africa,128774
+Gabon,Africa,48392
+Sao Tome and Principe,Africa,39608
+Algeria,Africa,2022337
+Egypt,Africa,3610461
+Libya,Africa,185518
+Morocco,Africa,3262222
+Sudan,Africa,2104887
+Tunisia,Africa,902268
+Western Sahara,Africa,194932
+Botswana,Africa,63561
+Eswatini,Africa,50039
+Lesotho,Africa,202164
+Namibia,Africa,47770
+South Africa,Africa,914901
+Benin,Africa,681827
+Burkina Faso,Africa,1599347
+Cabo Verde,Africa,187558
+Côte d'Ivoire,Africa,1149298
+Gambia,Africa,139210
+Ghana,Africa,1004324
+Guinea,Africa,550790
+Guinea-Bissau,Africa,111790
+Liberia,Africa,233564
+Mali,Africa,1303511
+Mauritania,Africa,130226
+Niger,Africa,399707
+Nigeria,Africa,1670455
+Saint Helena*,Africa,4885
+Senegal,Africa,693765
+Sierra Leone,Africa,152486
+Togo,Africa,545409
+Kazakhstan,Asia,4203899
+Kyrgyzstan,Asia,774377
+Tajikistan,Asia,586851
+Turkmenistan,Asia,242554
+Uzbekistan,Asia,2027823
+China*,Asia,10461170
+"China, Hong Kong SAR*",Asia,1007788
+"China, Macao SAR*",Asia,145192
+Dem. People's Republic of Korea,Asia,110377
+Japan,Asia,808825
+Mongolia,Asia,82098
+Republic of Korea,Asia,2204554
+Brunei Darussalam,Asia,45340
+Cambodia,Asia,1104819
+Indonesia,Asia,4601369
+Lao People's Democratic Republic,Asia,1296051
+Malaysia*,Asia,1860037
+Myanmar,Asia,3711751
+Philippines,Asia,6094307
+Singapore,Asia,348464
+Thailand,Asia,1086985
+Timor-Leste,Asia,39588
+Viet Nam,Asia,3392025
+Afghanistan,Asia,5853838
+Bangladesh,Asia,7401763
+Bhutan,Asia,51998
+India,Asia,17869492
+Iran (Islamic Republic of),Asia,1325113
+Maldives,Asia,3715
+Nepal,Asia,2599701
+Pakistan,Asia,6328400
+Sri Lanka,Asia,1960025
+Armenia,Asia,958190
+Azerbaijan*,Asia,1163922
+Bahrain,Asia,58270
+Cyprus*,Asia,173210
+Georgia*,Asia,861077
+Iraq,Asia,2077976
+Israel,Asia,358691
+Jordan,Asia,814909
+Kuwait,Asia,212271
+Lebanon,Asia,856814
+Oman,Asia,25099
+Qatar,Asia,25705
+Saudi Arabia,Asia,299268
+State of Palestine*,Asia,4022791
+Syrian Arab Republic,Asia,8457214
+Turkey,Asia,3411408
+United Arab Emirates,Asia,203214
+Yemen,Asia,1301166
+Belarus,Europe,1483626
+Bulgaria,Europe,1683074
+Czechia,Europe,1026108
+Hungary,Europe,714420
+Poland,Europe,4825096
+Republic of Moldova*,Europe,1159443
+Romania,Europe,3987093
+Russian Federation,Europe,10756697
+Slovakia,Europe,419651
+Ukraine*,Europe,6139144
+Channel Islands*,Europe,17158
+Denmark*,Europe,257025
+Estonia,Europe,206631
+Faroe Islands*,Europe,12927
+Finland*,Europe,311889
+Iceland,Europe,43251
+Ireland,Europe,734317
+Isle of Man*,Europe,12032
+Latvia,Europe,380010
+Lithuania,Europe,658057
+Norway*,Europe,191392
+Sweden,Europe,327581
+United Kingdom*,Europe,4732510
+Albania,Europe,1250451
+Andorra,Europe,11132
+Bosnia and Herzegovina,Europe,1687639
+Croatia,Europe,1039526
+Gibraltar*,Europe,13389
+Greece,Europe,1088507
+Holy See*,Europe,174
+Italy,Europe,3258831
+Malta,Europe,102793
+Montenegro,Europe,132965
+North Macedonia,Europe,693896
+Portugal,Europe,2081419
+San Marino,Europe,2407
+Serbia*,Europe,1003962
+Slovenia,Europe,160197
+Spain*,Europe,1489823
+Austria,Europe,600740
+Belgium,Europe,577463
+France*,Europe,2341908
+Germany,Europe,3855268
+Liechtenstein,Europe,3706
+Luxembourg,Europe,81757
+Monaco,Europe,32552
+Netherlands*,Europe,970403
+Switzerland,Europe,713623
+Anguilla*,America,2505
+Antigua and Barbuda,America,66561
+Aruba*,America,21456
+Bahamas,America,53793
+Barbados,America,99611
+"Bonaire, Sint Eustatius and Saba*",America,8148
+British Virgin Islands*,America,5355
+Cayman Islands*,America,1908
+Cuba,America,1757300
+Curaçao*,America,7611
+Dominica,America,78191
+Dominican Republic,America,1608567
+Grenada,America,62204
+Guadeloupe*,America,12542
+Haiti,America,1769671
+Jamaica,America,1118931
+Martinique*,America,12963
+Montserrat*,America,24582
+Puerto Rico*,America,1850529
+Saint Kitts and Nevis,America,50285
+Saint Lucia,America,71227
+Saint Vincent and the Grenadines,America,55525
+Sint Maarten (Dutch part)*,America,2191
+Trinidad and Tobago,America,330519
+Turks and Caicos Islands*,America,2689
+United States Virgin Islands*,America,3908
+Belize,America,52756
+Costa Rica,America,150241
+El Salvador,America,1599058
+Guatemala,America,1368431
+Honduras,America,985077
+Mexico,America,11185737
+Nicaragua,America,718154
+Panama,America,139520
+Argentina,America,1076148
+Bolivia (Plurinational State of),America,927244
+Brazil,America,1897128
+Chile,America,643800
+Colombia,America,3024273
+Ecuador,America,1127891
+Falkland Islands (Malvinas)*,America,1518
+French Guiana*,America,4595
+Guyana,America,438413
+Paraguay,America,896484
+Peru,America,1519635
+Suriname,America,273209
+Uruguay,America,367060
+Venezuela (Bolivarian Republic of),America,5415337
+Bermuda*,America,21107
+Canada,America,1292329
+Greenland*,America,17866
+Saint Pierre and Miquelon*,America,433
+United States of America*,America,2996223
+Australia*,Oceania,598765
+New Zealand*,Oceania,806159
+Fiji,Oceania,233856
+New Caledonia*,Oceania,5839
+Papua New Guinea,Oceania,4810
+Solomon Islands,Oceania,4270
+Vanuatu,Oceania,7246
+Guam*,Oceania,2213
+Kiribati,Oceania,5103
+Marshall Islands,Oceania,10886
+Micronesia (Fed. States of),Oceania,24945
+Nauru,Oceania,2454
+Northern Mariana Islands*,Oceania,2741
+Palau,Oceania,2656
+American Samoa*,Oceania,1832
+Cook Islands*,Oceania,21106
+French Polynesia*,Oceania,2157
+Niue*,Oceania,5186
+Samoa,Oceania,135732
+Tokelau*,Oceania,2112
+Tonga,Oceania,74550
+Tuvalu,Oceania,3670
+Wallis and Futuna Islands*,Oceania,11917
