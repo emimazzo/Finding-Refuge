@@ -7,16 +7,16 @@ Ethiopia,946129
 Kenya,535348
 Madagascar,193526
 Malawi,311052
-Mauritius*,182973
-Mayotte*,6767
+Mauritius,182973
+Mayotte,6767
 Mozambique,640160
-Réunion*,3064
+Réunion,3064
 Rwanda,492489
 Seychelles,29258
 Somalia,2034221
 South Sudan,2575870
 Uganda,781440
-United Republic of Tanzania*,327863
+United Republic of Tanzania,327863
 Zambia,200700
 Zimbabwe,1243314
 Angola,668066
@@ -53,7 +53,7 @@ Mali,1303511
 Mauritania,130226
 Niger,399707
 Nigeria,1670455
-Saint Helena*,4885
+Saint Helena,4885
 Senegal,693765
 Sierra Leone,152486
 Togo,545409
@@ -62,10 +62,10 @@ Kyrgyzstan,774377
 Tajikistan,586851
 Turkmenistan,242554
 Uzbekistan,2027823
-China*,10461170
-"China, Hong Kong SAR*",1007788
-"China, Macao SAR*",145192
-"China, Taiwan Province of China*",..
+China,10461170
+"China, Hong Kong SAR",1007788
+"China, Macao SAR",145192
+"China, Taiwan Province of China",..
 Dem. People's Republic of Korea,110377
 Japan,808825
 Mongolia,82098
@@ -74,7 +74,7 @@ Brunei Darussalam,45340
 Cambodia,1104819
 Indonesia,4601369
 Lao People's Democratic Republic,1296051
-Malaysia*,1860037
+Malaysia,1860037
 Myanmar,3711751
 Philippines,6094307
 Singapore,348464
@@ -91,10 +91,10 @@ Nepal,2599701
 Pakistan,6328400
 Sri Lanka,1960025
 Armenia,958190
-Azerbaijan*,1163922
+Azerbaijan,1163922
 Bahrain,58270
-Cyprus*,173210
-Georgia*,861077
+Cyprus,173210
+Georgia,861077
 Iraq,2077976
 Israel,358691
 Jordan,814909
@@ -103,7 +103,7 @@ Lebanon,856814
 Oman,25099
 Qatar,25705
 Saudi Arabia,299268
-State of Palestine*,4022791
+State of Palestine,4022791
 Syrian Arab Republic,8457214
 Turkey,3411408
 United Arab Emirates,203214
@@ -113,77 +113,77 @@ Bulgaria,1683074
 Czechia,1026108
 Hungary,714420
 Poland,4825096
-Republic of Moldova*,1159443
+Republic of Moldova,1159443
 Romania,3987093
 Russian Federation,10756697
 Slovakia,419651
-Ukraine*,6139144
-Channel Islands*,17158
-Denmark*,257025
+Ukraine,6139144
+Channel Islands,17158
+Denmark,257025
 Estonia,206631
-Faroe Islands*,12927
-Finland*,311889
+Faroe Islands,12927
+Finland,311889
 Iceland,43251
 Ireland,734317
-Isle of Man*,12032
+Isle of Man,12032
 Latvia,380010
 Lithuania,658057
-Norway*,191392
+Norway,191392
 Sweden,327581
-United Kingdom*,4732510
+United Kingdom,4732510
 Albania,1250451
 Andorra,11132
 Bosnia and Herzegovina,1687639
 Croatia,1039526
-Gibraltar*,13389
+Gibraltar,13389
 Greece,1088507
-Holy See*,174
+Holy See,174
 Italy,3258831
 Malta,102793
 Montenegro,132965
 North Macedonia,693896
 Portugal,2081419
 San Marino,2407
-Serbia*,1003962
+Serbia,1003962
 Slovenia,160197
-Spain*,1489823
+Spain,1489823
 Austria,600740
 Belgium,577463
-France*,2341908
+France,2341908
 Germany,3855268
 Liechtenstein,3706
 Luxembourg,81757
 Monaco,32552
-Netherlands*,970403
+Netherlands,970403
 Switzerland,713623
-Anguilla*,2505
+Anguilla,2505
 Antigua and Barbuda,66561
-Aruba*,21456
+Aruba,21456
 Bahamas,53793
 Barbados,99611
-"Bonaire, Sint Eustatius and Saba*",8148
-British Virgin Islands*,5355
-Cayman Islands*,1908
+"Bonaire, Sint Eustatius and Saba",8148
+British Virgin Islands,5355
+Cayman Islands,1908
 Cuba,1757300
-Curaçao*,7611
+Curaçao,7611
 Dominica,78191
 Dominican Republic,1608567
 Grenada,62204
-Guadeloupe*,12542
+Guadeloupe,12542
 Haiti,1769671
 Jamaica,1118931
-Martinique*,12963
-Montserrat*,24582
-Puerto Rico*,1850529
-Saint Barthélemy*,..
+Martinique,12963
+Montserrat,24582
+Puerto Rico,1850529
+Saint Barthélemy,..
 Saint Kitts and Nevis,50285
 Saint Lucia,71227
-Saint Martin (French part)*,..
+Saint Martin (French part),..
 Saint Vincent and the Grenadines,55525
-Sint Maarten (Dutch part)*,2191
+Sint Maarten (Dutch part),2191
 Trinidad and Tobago,330519
-Turks and Caicos Islands*,2689
-United States Virgin Islands*,3908
+Turks and Caicos Islands,2689
+United States Virgin Islands,3908
 Belize,52756
 Costa Rica,150241
 El Salvador,1599058
@@ -198,39 +198,39 @@ Brazil,1897128
 Chile,643800
 Colombia,3024273
 Ecuador,1127891
-Falkland Islands (Malvinas)*,1518
-French Guiana*,4595
+Falkland Islands (Malvinas),1518
+French Guiana,4595
 Guyana,438413
 Paraguay,896484
 Peru,1519635
 Suriname,273209
 Uruguay,367060
 Venezuela (Bolivarian Republic of),5415337
-Bermuda*,21107
+Bermuda,21107
 Canada,1292329
-Greenland*,17866
-Saint Pierre and Miquelon*,433
-United States of America*,2996223
-Australia*,598765
-New Zealand*,806159
+Greenland,17866
+Saint Pierre and Miquelon,433
+United States of America,2996223
+Australia,598765
+New Zealand,806159
 Fiji,233856
-New Caledonia*,5839
+New Caledonia,5839
 Papua New Guinea,4810
 Solomon Islands,4270
 Vanuatu,7246
-Guam*,2213
+Guam,2213
 Kiribati,5103
 Marshall Islands,10886
 Micronesia (Fed. States of),24945
 Nauru,2454
-Northern Mariana Islands*,2741
+Northern Mariana Islands,2741
 Palau,2656
-American Samoa*,1832
-Cook Islands*,21106
-French Polynesia*,2157
-Niue*,5186
+American Samoa,1832
+Cook Islands,21106
+French Polynesia,2157
+Niue,5186
 Samoa,135732
-Tokelau*,2112
+Tokelau,2112
 Tonga,74550
 Tuvalu,3670
-Wallis and Futuna Islands*,11917
+Wallis and Futuna Islands,11917
